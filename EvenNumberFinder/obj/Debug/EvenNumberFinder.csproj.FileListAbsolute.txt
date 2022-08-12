@@ -1,0 +1,9 @@
+C:\Users\Asus\source\repos\EvenNumberFinder\EvenNumberFinder\bin\Debug\EvenNumberFinder.exe.config
+C:\Users\Asus\source\repos\EvenNumberFinder\EvenNumberFinder\bin\Debug\EvenNumberFinder.exe
+C:\Users\Asus\source\repos\EvenNumberFinder\EvenNumberFinder\bin\Debug\EvenNumberFinder.pdb
+C:\Users\Asus\source\repos\EvenNumberFinder\EvenNumberFinder\obj\Debug\EvenNumberFinder.Form1.resources
+C:\Users\Asus\source\repos\EvenNumberFinder\EvenNumberFinder\obj\Debug\EvenNumberFinder.Properties.Resources.resources
+C:\Users\Asus\source\repos\EvenNumberFinder\EvenNumberFinder\obj\Debug\EvenNumberFinder.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\EvenNumberFinder\EvenNumberFinder\obj\Debug\EvenNumberFinder.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\EvenNumberFinder\EvenNumberFinder\obj\Debug\EvenNumberFinder.exe
+C:\Users\Asus\source\repos\EvenNumberFinder\EvenNumberFinder\obj\Debug\EvenNumberFinder.pdb
